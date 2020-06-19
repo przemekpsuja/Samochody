@@ -1,0 +1,6 @@
+/home/przemek/RiderProjects/Samochody/Samochody/bin/Debug/Samochody.dll
+/home/przemek/RiderProjects/Samochody/Samochody/bin/Debug/Samochody.pdb
+/home/przemek/RiderProjects/Samochody/Samochody/obj/Debug/Samochody.csprojAssemblyReference.cache
+/home/przemek/RiderProjects/Samochody/Samochody/obj/Debug/Samochody.csproj.CoreCompileInputs.cache
+/home/przemek/RiderProjects/Samochody/Samochody/obj/Debug/Samochody.dll
+/home/przemek/RiderProjects/Samochody/Samochody/obj/Debug/Samochody.pdb

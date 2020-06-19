@@ -1,0 +1,9 @@
+/home/przemek/RiderProjects/Samochody/TestSamochodu/bin/Debug/TestSamochodu.exe
+/home/przemek/RiderProjects/Samochody/TestSamochodu/bin/Debug/TestSamochodu.pdb
+/home/przemek/RiderProjects/Samochody/TestSamochodu/bin/Debug/Samochody.dll
+/home/przemek/RiderProjects/Samochody/TestSamochodu/bin/Debug/Samochody.pdb
+/home/przemek/RiderProjects/Samochody/TestSamochodu/obj/Debug/TestSamochodu.csprojAssemblyReference.cache
+/home/przemek/RiderProjects/Samochody/TestSamochodu/obj/Debug/TestSamochodu.csproj.CoreCompileInputs.cache
+/home/przemek/RiderProjects/Samochody/TestSamochodu/obj/Debug/TestSamochodu.csproj.CopyComplete
+/home/przemek/RiderProjects/Samochody/TestSamochodu/obj/Debug/TestSamochodu.exe
+/home/przemek/RiderProjects/Samochody/TestSamochodu/obj/Debug/TestSamochodu.pdb
